@@ -2,7 +2,7 @@
 <h1 align="center">Oii 👋, Eu sou o Yuri</h1>
 <h3 align="center">Um estudante de SI apaixonado por tecnologia</h3>
 
-<img align="right" alt="Coding gif" width="400" src="https://media.tenor.com/YUzRkMOL-3EAAAAM/programming-computer-frog.gif">
+<img align="right" alt="Coding gif" width="350" src="https://media.tenor.com/YUzRkMOL-3EAAAAM/programming-computer-frog.gif">
 
 - 🌱 Estou estudando **Java, Linux, JavaScript**
 
